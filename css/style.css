@@ -149,6 +149,7 @@ a:focus, a:hover {
   }
 }
 
+/* Header */
 .masthead {
   position: relative;
   width: 100%;
@@ -200,4 +201,14 @@ a:focus, a:hover {
     max-width: 30rem;
     font-size: 1.25rem;
   }
+}
+
+/* About Section */
+.about-section {
+  padding-top: 10rem;
+  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+}
+
+.about-section p {
+  margin-bottom: 5rem;
 }
